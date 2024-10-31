@@ -4,4 +4,6 @@ However, the keyboard has one (extremely inconvenient) drawback: if any of these
 
 To make this more complicated, the keyboard WILL input if line segments only intersect at vertices (e.g. "SEATED," "TARTS"). Note that retracing a line segment still counts as an intersection--this said, words such as "STATS" or "SEES" would be invalid.
 
-Let's see what we can do with this keyboard.
+Now, here are some questions that pertain to this keyboard:
+- What is the longest word you can write with this keyboard? What percent of English words can be typed using an alphabetical configuration?
+- What is the optimal configuration for this keyboard? Assume our goal is to write the most words possible.
